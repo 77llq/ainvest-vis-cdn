@@ -10,6 +10,6 @@ Stable branch URL:
 https://cdn.jsdelivr.net/gh/77llq/ainvest-vis-cdn@main/aime/vis-skill-assets/standardchart/bundle.umd.min.js
 ```
 
-For a pinned release, replace `main` with a commit SHA. The `@main` URL keeps its address when the file is updated, but CDN and browser caches may delay delivery of the new content.
+For immediate updates, replace `main` with the latest commit SHA from this repository. Commit-pinned URLs are immutable, so they avoid stale branch and browser caches. The `@main` URL keeps its address when the file is updated; do not rely on it for an urgent rollout.
 
-Current bundle: `@datav/standard` version `1.11.7-alpha.2` (built 2026-10-23).
+Current bundle: `@datav/standard` version `1.11.7-alpha.2`, built from standard-chart commit `09bbd66da` on 2026-10-23.
